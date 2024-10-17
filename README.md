@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @inchangable
 - 👀 I’m interested in discord dev
-- 🌱 I’m currently learning python , lua , nodejs
+- 🌱 I’m currently learning python , lua , nodejs , html , css , js
 
 <!---
 inchangable/inchangable is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
